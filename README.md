@@ -1,4 +1,6 @@
 # PRM
+![alt text](https://zenodo.org/badge/203188792.svg)
+
 PRM (Positional Recurrence Map), is a Matlab code to post-process ab initio molecular dynamics trajectories obtained with VASP, in order to obtain information on the structure and the dynamics of the system and, notably, to calculate neutron-weighted spectra. 
 See prm.m header and functions headers for a detailed description of the code capabilities.
 
